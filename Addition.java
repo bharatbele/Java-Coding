@@ -10,6 +10,6 @@ public class Addition
 	public static void main(String[] args)
 	{
 		Addition obj = new Addition ();
-		obj.sum(10,20);
+		obj.sum(80,80);
 	}
 }
